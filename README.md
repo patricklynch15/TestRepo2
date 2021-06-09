@@ -1,2 +1,2 @@
 # TestRepo2
-Test Repo
+Fake Description for practice Git project.
